@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Ruby on Rails, Le Wagon**
 
+- 👨‍💻 All of my projects are available at [troopl.com/radzikpl](troopl.com/radzikpl)
+
 - 📫 How to reach me **f.radzikowski33@gmail.com**
 
 - ⚡ Fun fact **Self taught guitarist, Sound Engineering and Music Technology graduate, passionate gamer.**
